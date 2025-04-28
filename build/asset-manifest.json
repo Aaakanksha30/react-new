@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.17ee1d7a.css",
+    "main.js": "/static/js/main.03ac42ef.js",
+    "static/media/spaceman.gif": "/static/media/spaceman.07f79d301d9b3e8da332.gif",
+    "static/media/astronaut.png": "/static/media/astronaut.faaaf513afe5a1ea36e3.png",
+    "static/media/Inspiration-Regular.ttf": "/static/media/Inspiration-Regular.62cd0b06540e461d7656.ttf",
+    "static/media/PaletteMosaic-Regular.ttf": "/static/media/PaletteMosaic-Regular.a9bfb9bbbe7908ccfe7f.ttf",
+    "static/media/Cinzel-VariableFont_wght.ttf": "/static/media/Cinzel-VariableFont_wght.f106898105d4ca9effaa.ttf",
+    "static/media/stars.png": "/static/media/stars.fb95e3d1302794752cfa.png",
+    "static/media/SpaceMono-Regular.ttf": "/static/media/SpaceMono-Regular.f6e015c36df6af8b01db.ttf",
+    "static/media/ChakraPetch-Regular.ttf": "/static/media/ChakraPetch-Regular.f4019d33aae25f6d8eaf.ttf",
+    "static/media/join.jfif": "/static/media/join.9d6d6ca1636fcb075a2d.jfif",
+    "static/media/popup2.jpg": "/static/media/popup2.e3878ea1beb35d5cd91d.jpg",
+    "static/media/OleoScriptSwashCaps-Regular.ttf": "/static/media/OleoScriptSwashCaps-Regular.804c85109953823c7cef.ttf",
+    "index.html": "/index.html",
+    "main.17ee1d7a.css.map": "/static/css/main.17ee1d7a.css.map",
+    "main.03ac42ef.js.map": "/static/js/main.03ac42ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17ee1d7a.css",
+    "static/js/main.03ac42ef.js"
+  ]
+}
